@@ -1,0 +1,81 @@
+vehicle_id,vehicle_model,battery_capacity_kwh,vehicle_segment
+EV0001,Tata Nexon EV,40.5,Mid-range
+EV0002,Tata Tiago EV,24.0,Compact
+EV0003,Tata Tiago EV,24.0,Compact
+EV0004,Hyundai Kona,39.2,Mid-range
+EV0005,Mahindra XUV400,39.4,Mid-range
+EV0006,MG ZS EV,50.3,Premium
+EV0007,Mahindra XUV400,39.4,Mid-range
+EV0008,Tata Nexon EV,40.5,Mid-range
+EV0009,Tata Tiago EV,24.0,Compact
+EV0010,Hyundai Kona,39.2,Mid-range
+EV0011,Tata Tiago EV,24.0,Compact
+EV0012,Mahindra XUV400,39.4,Mid-range
+EV0013,Mahindra XUV400,39.4,Mid-range
+EV0014,MG ZS EV,50.3,Premium
+EV0015,MG ZS EV,50.3,Premium
+EV0016,Hyundai Kona,39.2,Mid-range
+EV0017,MG ZS EV,50.3,Premium
+EV0018,Mahindra XUV400,39.4,Mid-range
+EV0019,Mahindra XUV400,39.4,Mid-range
+EV0020,Tata Nexon EV,40.5,Mid-range
+EV0021,Mahindra XUV400,39.4,Mid-range
+EV0022,Hyundai Kona,39.2,Mid-range
+EV0023,BYD Atto 3,60.5,Premium
+EV0024,Tata Nexon EV,40.5,Mid-range
+EV0025,Tata Nexon EV,40.5,Mid-range
+EV0026,Hyundai Kona,39.2,Mid-range
+EV0027,Hyundai Kona,39.2,Mid-range
+EV0028,MG ZS EV,50.3,Premium
+EV0029,Tata Nexon EV,40.5,Mid-range
+EV0030,MG ZS EV,50.3,Premium
+EV0031,Mahindra XUV400,39.4,Mid-range
+EV0032,Tata Nexon EV,40.5,Mid-range
+EV0033,Tata Nexon EV,40.5,Mid-range
+EV0034,Tata Tiago EV,24.0,Compact
+EV0035,BYD Atto 3,60.5,Premium
+EV0036,Tata Nexon EV,40.5,Mid-range
+EV0037,Mahindra XUV400,39.4,Mid-range
+EV0038,MG ZS EV,50.3,Premium
+EV0039,MG ZS EV,50.3,Premium
+EV0040,Tata Tiago EV,24.0,Compact
+EV0041,BYD Atto 3,60.5,Premium
+EV0042,Mahindra XUV400,39.4,Mid-range
+EV0043,MG ZS EV,50.3,Premium
+EV0044,Hyundai Kona,39.2,Mid-range
+EV0045,Mahindra XUV400,39.4,Mid-range
+EV0046,Mahindra XUV400,39.4,Mid-range
+EV0047,BYD Atto 3,60.5,Premium
+EV0048,MG ZS EV,50.3,Premium
+EV0049,Mahindra XUV400,39.4,Mid-range
+EV0050,Tata Tiago EV,24.0,Compact
+EV0051,Tata Tiago EV,24.0,Compact
+EV0052,MG ZS EV,50.3,Premium
+EV0053,Tata Tiago EV,24.0,Compact
+EV0054,Hyundai Kona,39.2,Mid-range
+EV0055,BYD Atto 3,60.5,Premium
+EV0056,Tata Tiago EV,24.0,Compact
+EV0057,Tata Tiago EV,24.0,Compact
+EV0058,Hyundai Kona,39.2,Mid-range
+EV0059,BYD Atto 3,60.5,Premium
+EV0060,Mahindra XUV400,39.4,Mid-range
+EV0061,BYD Atto 3,60.5,Premium
+EV0062,Tata Nexon EV,40.5,Mid-range
+EV0063,MG ZS EV,50.3,Premium
+EV0064,MG ZS EV,50.3,Premium
+EV0065,Tata Nexon EV,40.5,Mid-range
+EV0066,Hyundai Kona,39.2,Mid-range
+EV0067,Tata Nexon EV,40.5,Mid-range
+EV0068,Mahindra XUV400,39.4,Mid-range
+EV0069,Mahindra XUV400,39.4,Mid-range
+EV0070,MG ZS EV,50.3,Premium
+EV0071,Mahindra XUV400,39.4,Mid-range
+EV0072,MG ZS EV,50.3,Premium
+EV0073,Tata Nexon EV,40.5,Mid-range
+EV0074,Tata Nexon EV,40.5,Mid-range
+EV0075,Tata Tiago EV,24.0,Compact
+EV0076,Tata Tiago EV,24.0,Compact
+EV0077,Tata Nexon EV,40.5,Mid-range
+EV0078,MG ZS EV,50.3,Premium
+EV0079,Tata Nexon EV,40.5,Mid-range
+EV0080,Tata Nexon EV,40.5,Mid-range

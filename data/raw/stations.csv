@@ -1,0 +1,31 @@
+station_id,station_name,city,operator,connector_type,charger_power_kw,latitude,longitude,commissioned_date
+ST001,Hyderabad Tech Park Station 01,Hyderabad,VoltWay,CCS2,11,12.20009,73.92521,2023-04-03
+ST002,Bengaluru Airport Road Station 02,Bengaluru,ChargeGrid,Type 2,22,17.89177,76.7369,2025-01-21
+ST003,Mumbai Highway Station 03,Mumbai,GreenMiles,CHAdeMO,11,16.72394,72.22248,2022-07-11
+ST004,Pune Mall Station 04,Pune,ElectraHub,CCS2,30,13.86129,76.21413,2025-02-23
+ST005,Delhi Central Station 05,Delhi,VoltWay,Type 2,30,17.72816,76.90927,2024-05-09
+ST006,Chennai Tech Park Station 06,Chennai,ChargeGrid,CHAdeMO,30,15.59367,73.94733,2022-01-14
+ST007,Hyderabad Airport Road Station 07,Hyderabad,GreenMiles,CCS2,22,17.58512,74.38175,2022-11-15
+ST008,Bengaluru Highway Station 08,Bengaluru,ElectraHub,Type 2,30,19.6577,74.35616,2022-07-09
+ST009,Mumbai Mall Station 09,Mumbai,VoltWay,CHAdeMO,120,12.77373,77.93246,2023-06-26
+ST010,Pune Central Station 10,Pune,ChargeGrid,CCS2,7.4,17.83785,75.7536,2024-02-15
+ST011,Delhi Tech Park Station 11,Delhi,GreenMiles,Type 2,11,16.41633,77.80583,2024-01-11
+ST012,Chennai Airport Road Station 12,Chennai,ElectraHub,CHAdeMO,30,17.63657,72.32077,2023-04-12
+ST013,Hyderabad Highway Station 13,Hyderabad,VoltWay,CCS2,50,19.88177,77.98722,2022-07-26
+ST014,Bengaluru Mall Station 14,Bengaluru,ChargeGrid,Type 2,120,14.22379,76.44979,2024-01-18
+ST015,Mumbai Central Station 15,Mumbai,GreenMiles,CHAdeMO,22,14.96145,73.46655,2023-07-01
+ST016,Pune Tech Park Station 16,Pune,ElectraHub,CCS2,11,16.87305,73.19797,2023-05-17
+ST017,Delhi Airport Road Station 17,Delhi,VoltWay,Type 2,22,15.69808,73.88963,2025-02-14
+ST018,Chennai Highway Station 18,Chennai,ChargeGrid,CHAdeMO,30,17.47691,77.89996,2022-04-25
+ST019,Hyderabad Mall Station 19,Hyderabad,GreenMiles,CCS2,30,18.57442,77.63532,2024-04-01
+ST020,Bengaluru Central Station 20,Bengaluru,ElectraHub,Type 2,50,12.52951,78.39195,2025-03-07
+ST021,Mumbai Tech Park Station 21,Mumbai,VoltWay,CHAdeMO,60,13.70101,75.49462,2024-07-28
+ST022,Pune Airport Road Station 22,Pune,ChargeGrid,CCS2,22,14.11904,73.72639,2025-02-23
+ST023,Delhi Highway Station 23,Delhi,GreenMiles,Type 2,50,17.97611,74.99904,2025-04-10
+ST024,Chennai Mall Station 24,Chennai,ElectraHub,CHAdeMO,120,14.89597,78.98128,2022-10-11
+ST025,Hyderabad Central Station 25,Hyderabad,VoltWay,CCS2,150,12.72728,72.32981,2022-08-13
+ST026,Bengaluru Tech Park Station 26,Bengaluru,ChargeGrid,Type 2,22,17.01957,77.54456,2024-05-14
+ST027,Mumbai Airport Road Station 27,Mumbai,GreenMiles,CHAdeMO,11,15.07814,76.17122,2024-08-16
+ST028,Pune Highway Station 28,Pune,ElectraHub,CCS2,50,19.76863,78.02546,2022-01-24
+ST029,Delhi Mall Station 29,Delhi,VoltWay,Type 2,11,17.45368,75.75879,2023-07-01
+ST030,Chennai Central Station 30,Chennai,ChargeGrid,CHAdeMO,60,12.89242,75.04336,2024-07-18
